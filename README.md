@@ -14,5 +14,5 @@ Official visual identity, logo design, graphics, and multimedia asset package cr
 * **Restrictions:** Unauthorized reproduction, redistribution, modification, or commercial exploitation by third parties outside the scope of the agreement is strictly prohibited and subject to legal penalties under DMCA and applicable copyright laws.
 
 ## Technical Specifications
-* **Formats Included:** Vector source files (.ai, .eps, .svg), High-Resolution Rasters (.png with transparency, .jpg), layered Photoshop files (.psd), and PDF documentation.
-* **Color Palette:** Luxury Gold/Champagne Gradient on matte black background.
+* **Formats Included:** Vector source files (.pdf, .eps, .svg), High-Resolution Rasters (.png with transparency, .jpg), layered Photoshop files (.psd), and PDF documentation.
+* **Color Palette:** Luxury Gold/Champagne Gradient on matte black background (imahge from photoshop)
